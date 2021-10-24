@@ -1,6 +1,6 @@
 # QuantAbyss 
 
-Presentamos nuestro proyecto de la Hackathon Madrid 2021: un videojuego de progreso cuyo sistema de combate se basa únicamente en el empleo de puertas lógicas.
+Presentamos nuestro proyecto de la Hackathon Madrid 2021: un videojuego cuyo sistema de combate se basa únicamente en el empleo de puertas lógicas.
 
 Detalles a considerar:
 
